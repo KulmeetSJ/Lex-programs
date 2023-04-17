@@ -1,0 +1,1 @@
+/* Write a lex program to find the shortest word entered */
